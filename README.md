@@ -1,4 +1,4 @@
-Sure! Here’s a customized **README.md** template for your **IndiaDelight** React-based food ordering website:
+
 
 ```markdown
 # IndiaDelight - Food Ordering Platform
